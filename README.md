@@ -1,6 +1,6 @@
 # Let's Learn About Migrations
 
-## Objective
+## Objectivek
 
 1. Create, connect to, and manipulate a SQLite database using ActiveRecord.
 
